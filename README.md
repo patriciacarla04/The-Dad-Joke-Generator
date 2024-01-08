@@ -4,7 +4,7 @@ Information Retrieval system done as a final project for my Information Extracti
 
 # The idea behind the project
 
-Since this is my first complex NLP project, I decided to keep it light & funny (a method to cope with coding-induced frustrations) and work with (really bad) dad-jokes. The idea behind it was creating an information extraction system that indexes dad-jokes and returns jokes containing a certain keyword prompted by the user, therefore acting as a "dad-joke generator". (Note to self: create an actual joke generator next time)
+Since this is my first complex NLP project, I decided to keep it light & funny (a method to cope with coding-induced frustrations) and work with (really bad) dad-jokes. The idea behind it was creating an information retrieval system that indexes dad-jokes and returns jokes containing a certain keyword prompted by the user, therefore acting as a "dad-joke generator". (Note to self: create an actual joke generator next time)
 
 ### The Data
 The dataset I ended up working with consisted of two existing datasets I found on Kaggle: 
