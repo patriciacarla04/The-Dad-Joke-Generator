@@ -1,5 +1,5 @@
 # The Dad-Joke Generator
-Information Extraction system done as a final project for my Information Extraction class. It turned out quite funny.
+Information Retrieval system done as a final project for my Information Extraction class. It turned out quite funny.
 
 
 # The idea behind the project
